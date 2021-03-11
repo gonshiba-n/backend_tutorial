@@ -1,24 +1,4 @@
-# README
+#Rails APIモードの学習用リポジトリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails + Reactでフロントエンド、バックエンドの切り分け開発を行うために、学習のためにアプリを仮で<br>
+作成していく。(完了次第削除予定)
